@@ -1,0 +1,37 @@
+[
+    {
+        "name" : "Rohit Sharma",
+        "age" : "33",
+        "nationality" : "India",
+        "franchise" : "Mumbai Indians",
+        "imageUrl": "https://opt.toiimg.com/recuperator/img/toi/m-69257289/69257289.jpg"
+    },
+    {
+        "name" : "Jos Butler",
+        "age" : "31",
+        "nationality" : "England",
+        "franchise" : "Rajasthan Royals",
+        "imageUrl": "https://i.guim.co.uk/img/media/70030a0e91a2ed511f7941e8bb2d877aac91e829/0_67_2194_1317/master/2194.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=f84e3234e3fe36e690ebc1030b12a36a"
+    },
+    {
+        "name" : "Babar Azam",
+        "age" : "27",
+        "nationality" : "Pakistan",
+        "franchise" : "Lahore Qalandars",
+        "imageUrl": "https://www.espncricinfo.com/db/PICTURES/CMS/320400/320448.square.png"
+    },
+    {
+        "name" : "Kane Williamson",
+        "age" : "30",
+        "nationality" : "New Zealand",
+        "franchise" : "Sunrisers Hyderabad",
+        "imageUrl": "https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2020/04/28/Pictures/_83f32006-8901-11ea-8e78-f1b6d2f5bc87.jpg"
+    },
+    {
+        "name" : "Steve Smith",
+        "age" : "29",
+        "nationality" : "Austraia",
+        "franchise" : "Delhi Capitals",
+        "imageUrl": "https://resources.ecb.co.uk/player-photos/t20i/480x480/271.png"
+    }
+]
